@@ -1,0 +1,30 @@
+# LinkedIn – Product & UX Analysis (Student Perspective)
+
+## Overview
+LinkedIn is a professional platform used for job search, internships, networking, and understanding industry requirements. It is widely used by students, professionals, recruiters, and companies, making it a valuable career-oriented product.
+
+## What Works Well
+- Helps students understand real-world job and internship requirements.
+- Provides visibility into how professionals build profiles and resumes.
+- Useful for networking and staying updated with industry trends.
+- Educational and career-focused content is easily accessible.
+
+## UX Issues Observed
+From a student’s perspective, LinkedIn feels cluttered and sometimes distracting.
+
+Reasons:
+- The feed contains mixed content such as job posts, ads, university promotions, quotes, and app promotions.
+- Right-side sections like LinkedIn News add to information overload.
+- Users often get distracted from their original goal, such as searching for internships or jobs.
+
+## Product-Level Problem
+Although users select their role (student, professional, recruiter) during sign-up, the feed does not strongly reflect these preferences.  
+Students interested in internships and resume guidance still see unrelated content, reducing focus.
+
+## Suggested UX Improvements
+- Introduce an interest-based onboarding survey (internships, jobs, resume tips, domain).
+- Improve feed personalization based on user role and interests.
+- Separate job search results into clear categories like internships and full-time roles.
+
+## Key Learning
+LinkedIn is a powerful and informative product, but stronger personalization can significantly improve user focus, reduce distraction, and enhance overall user experience.
